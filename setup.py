@@ -1,4 +1,4 @@
-from skbuild import setup
+from setuptools import setup
 
 from pathlib import Path
 
